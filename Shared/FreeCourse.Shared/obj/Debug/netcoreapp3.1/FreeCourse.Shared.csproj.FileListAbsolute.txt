@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\GitHub\CourseApp\CourseApp\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.deps.json
+C:\Users\USER\Documents\GitHub\CourseApp\CourseApp\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+C:\Users\USER\Documents\GitHub\CourseApp\CourseApp\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
+C:\Users\USER\Documents\GitHub\CourseApp\CourseApp\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\CourseApp\CourseApp\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\CourseApp\CourseApp\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\CourseApp\CourseApp\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\CourseApp\CourseApp\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+C:\Users\USER\Documents\GitHub\CourseApp\CourseApp\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P8bDZH7UDJoJ6bjV8MOJHerrrSPfObCSdsxkR4+BX+frSS425jAHnz9T8sLWWHafw9jtEq9feyuCI4QQAPuasA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\CourseApp\\CourseApp\\Services\\Order\\Free.Course.Services.Order.Domain\\Free.Course.Services.Order.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

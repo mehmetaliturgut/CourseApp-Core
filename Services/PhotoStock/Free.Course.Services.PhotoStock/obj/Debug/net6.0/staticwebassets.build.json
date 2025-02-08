@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "YUmrQFapLLHhsT36N9BTCaUc5FVPFCwmTNwpMDt7FKE=",
+  "Source": "Free.Course.Services.PhotoStock",
+  "BasePath": "_content/Free.Course.Services.PhotoStock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Free.Course.Services.PhotoStock\\wwwroot",
+      "Source": "Free.Course.Services.PhotoStock",
+      "ContentRoot": "C:\\Users\\USER\\Documents\\GitHub\\CourseApp\\CourseApp\\Services\\PhotoStock\\Free.Course.Services.PhotoStock\\wwwroot\\",
+      "BasePath": "_content/Free.Course.Services.PhotoStock",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
